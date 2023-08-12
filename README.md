@@ -1,7 +1,7 @@
 # Learning Rate Schedules in the Presence of Distribution Shift
 
 This repository contains the code for the experiments in
-[Learning Rate Schedules in the Presence of Distribution Shift](https://arxiv.org/abs/2303.15634).
+[Learning Rate Schedules in the Presence of Distribution Shift](https://arxiv.org/abs/2303.15634) (ICML 2023).
 
 ## Summary
 
